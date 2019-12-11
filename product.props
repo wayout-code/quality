@@ -1,0 +1,11 @@
+<Project>
+
+  <PropertyGroup>
+
+    <Product>Wayout.Quality</Product> 
+    <ProductName>Quality</ProductName>
+    <Description></Description>
+
+  </PropertyGroup> 
+
+</Project>
